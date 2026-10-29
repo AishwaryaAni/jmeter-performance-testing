@@ -1,0 +1,10 @@
+{
+  "description": "Load gate: business SLA at expected peak traffic.",
+  "total": { "maxErrorPct": 1, "maxP95Ms": 2000, "minThroughputPerSec": 5 },
+  "transactions": {
+    "T01 Create booking": { "maxP95Ms": 2000 },
+    "T02 View booking": { "maxP95Ms": 1500 },
+    "T03 Update booking": { "maxP95Ms": 2000 },
+    "T04 Cancel booking": { "maxP95Ms": 2000 }
+  }
+}

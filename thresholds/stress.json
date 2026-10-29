@@ -1,0 +1,5 @@
+{
+  "description": "Stress gate: degraded but not broken — the system must stay up with a bounded error rate.",
+  "total": { "maxErrorPct": 5, "maxP95Ms": 5000 },
+  "transactions": {}
+}
