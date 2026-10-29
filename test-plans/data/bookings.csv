@@ -1,0 +1,61 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Yuki,Lopez,2730,true,2027-03-02,2027-03-08,Late checkout
+Fatima,Silva,3530,false,2027-10-12,2027-10-19,Early checkin
+Ananya,Sharma,2595,true,2027-10-28,2027-11-05,Breakfast
+Olivia,Sharma,3417,false,2027-05-28,2027-05-30,Parking
+Noah,Mehta,1504,false,2027-06-10,2027-06-14,Early checkin
+Kabir,Smith,447,false,2027-07-12,2027-07-21,Airport pickup
+Fatima,Das,181,false,2027-08-23,2027-08-26,Airport pickup
+Kabir,Garcia,3729,false,2027-08-25,2027-09-01,Early checkin
+Yuki,Kapoor,3665,false,2027-03-01,2027-03-08,Extra pillow
+Emma,Joshi,3873,false,2027-09-26,2027-10-01,Dinner
+Fatima,Gupta,3216,true,2027-09-23,2027-09-24,Early checkin
+Meera,Kapoor,1838,false,2027-01-26,2027-02-04,Late checkout
+Meera,Ali,2841,false,2027-09-04,2027-09-08,Parking
+Chen,Garcia,2823,false,2027-10-07,2027-10-12,Dinner
+Noah,Kim,909,false,2027-09-14,2027-09-22,Early checkin
+Diya,Khan,2765,false,2027-05-18,2027-05-19,Early checkin
+Liam,Nair,1145,false,2027-09-25,2027-10-03,Extra pillow
+Emma,Silva,2799,true,2027-09-19,2027-09-27,Early checkin
+Olivia,Reddy,1875,false,2027-05-29,2027-06-04,Extra pillow
+Mateo,Iyer,2736,false,2027-04-04,2027-04-11,Extra pillow
+Vikram,Kim,679,false,2027-07-09,2027-07-11,Breakfast
+Olivia,Joshi,2318,true,2027-02-17,2027-02-18,Dinner
+Meera,Kapoor,262,false,2027-04-12,2027-04-16,Parking
+Aarav,Smith,2802,false,2027-07-02,2027-07-05,Parking
+Ananya,Tanaka,2488,true,2027-03-11,2027-03-20,Dinner
+Kabir,Kim,2818,true,2027-09-16,2027-09-21,Late checkout
+Yuki,Kim,1679,true,2027-10-28,2027-11-02,Dinner
+Aarav,Reddy,1674,true,2027-04-11,2027-04-18,Breakfast
+Aarav,Sharma,2170,false,2027-06-27,2027-07-03,Airport pickup
+Sara,Reddy,2118,false,2027-06-05,2027-06-13,Dinner
+Fatima,Lopez,927,false,2027-03-29,2027-04-01,Dinner
+Omar,Gupta,2859,true,2027-06-22,2027-06-30,Dinner
+Vikram,Singh,265,true,2027-07-24,2027-07-25,Extra pillow
+Aarav,Khan,2724,true,2027-04-07,2027-04-15,Early checkin
+Isha,Singh,1677,false,2027-09-22,2027-09-25,Extra pillow
+Kabir,Garcia,1328,true,2027-09-30,2027-10-07,Airport pickup
+Olivia,Tanaka,3275,false,2027-03-31,2027-04-05,Airport pickup
+Sara,Lopez,2054,false,2027-08-28,2027-08-31,Breakfast
+Arjun,Reddy,3552,true,2027-09-27,2027-10-06,Late checkout
+Olivia,Smith,1751,true,2027-01-03,2027-01-05,Breakfast
+Liam,Silva,2894,true,2027-06-30,2027-07-03,Breakfast
+Fatima,Nair,2414,false,2027-05-24,2027-06-02,Dinner
+Rohan,Reddy,3281,false,2027-05-18,2027-05-27,Breakfast
+Meera,Patel,3189,false,2027-08-12,2027-08-15,Parking
+Yuki,Smith,1213,true,2027-04-05,2027-04-07,Airport pickup
+Arjun,Mehta,337,true,2027-06-11,2027-06-14,Extra pillow
+Aarav,Patel,475,true,2027-05-12,2027-05-19,Breakfast
+Meera,Silva,2441,false,2027-06-08,2027-06-10,Airport pickup
+Omar,Patel,3867,false,2027-08-22,2027-09-01,Airport pickup
+Olivia,Kim,2848,true,2027-04-21,2027-05-01,Parking
+Arjun,Garcia,1275,false,2027-07-11,2027-07-20,Breakfast
+Priya,Smith,1266,true,2027-08-12,2027-08-13,Airport pickup
+Fatima,Sharma,2300,false,2027-08-02,2027-08-08,Late checkout
+Meera,Singh,2615,true,2027-10-15,2027-10-16,Breakfast
+Yuki,Brown,2525,false,2027-01-20,2027-01-23,Breakfast
+Rohan,Brown,1781,false,2027-08-06,2027-08-16,Extra pillow
+Ananya,Khan,831,true,2027-05-03,2027-05-10,Parking
+Noah,Mehta,3301,true,2027-10-05,2027-10-14,Late checkout
+Arjun,Silva,2041,false,2027-01-12,2027-01-13,Airport pickup
+Fatima,Iyer,3518,true,2027-06-11,2027-06-14,Dinner
