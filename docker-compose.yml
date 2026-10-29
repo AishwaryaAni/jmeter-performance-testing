@@ -1,0 +1,9 @@
+# System under test for local runs — the same image CI uses.
+#   docker compose up -d        → API on http://localhost:3001  (GET /ping → 201)
+#   docker compose down
+services:
+  booking-api:
+    image: mwinteringham/restfulbooker:latest
+    container_name: booking-api
+    ports:
+      - "3001:3001"

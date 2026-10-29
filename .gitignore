@@ -1,0 +1,10 @@
+# JMeter output
+results/
+*.jtl
+jmeter.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
