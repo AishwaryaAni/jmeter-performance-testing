@@ -60,8 +60,11 @@ jobs:
 
       - name: Install JMeter ${{ env.JMETER_VERSION }}
         if: steps.cache-jmeter.outputs.cache-hit != 'true'
+        # Fast CDN first; the (rate-limited) Apache archive only as a fallback for older versions
         run: |
-          curl -fsSL "https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-${JMETER_VERSION}.tgz" -o /tmp/jmeter.tgz
+          f="apache-jmeter-${JMETER_VERSION}.tgz"
+          curl -fsSL --retry 3 "https://dlcdn.apache.org/jmeter/binaries/$f" -o /tmp/jmeter.tgz \
+            || curl -fsSL --retry 3 "https://archive.apache.org/dist/jmeter/binaries/$f" -o /tmp/jmeter.tgz
           tar -xzf /tmp/jmeter.tgz -C ~
 
       - name: Wait for the booking API container
